@@ -10,8 +10,7 @@ This project involves creating a surveillance robot using Arduino and ESP32 modu
 - **ESP32-CAM**: Provides live video streaming over WiFi.
 - **ESP32/ESP8266**: Handles WiFi communication and sends emergency notifications.
 - **Ultrasonic Sensors**: Detect obstacles in the front, back, left, and right.
-- **DHT11 Temperature Sensor**: Monitors temperature to detect fire.
--
+- **DHT11 Temperature Sensor**: Monitors temperature to detect fire
 - **L298N Motor Driver**: Controls the robot's motors.
 - **Buzzer/Alarm**: Alerts for emergency situations.
 
