@@ -53,6 +53,7 @@ This project involves creating a surveillance robot using Arduino and ESP32 modu
 - `ESP32_CAM_Code.ino`: Manages video streaming.
 - `ESP32_Code.ino`: Sends notifications via WiFi.
 
+
 ## Contributions
 
 Feel free to fork this repository, make improvements, and create pull requests. Contributions are welcome!
@@ -63,5 +64,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or suggestions, please reach out to [Chaitanya](chaitanyanagasai143@gmail.com).
+For any questions or suggestions, please reach out to [Nitin Sharma](nitinsharma010403@gmail.com).
 
